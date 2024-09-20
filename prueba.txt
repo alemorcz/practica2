@@ -5,3 +5,6 @@ rosa
 amarillo
 cama
 mesa
+jajajajaj
+editado desde github
+lalalala
